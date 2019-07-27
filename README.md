@@ -2,15 +2,27 @@
 
 ## Introduction @unplugged
 
-hello!!
+原来网络，康和康妈第一节课
 
 ## Step 1 @fullscreen
 
-Place the ``||basic:show leds||`` block in the ``||basic:forever||`` block and draw a heart.
+请小朋友在``||basic:forever||``中间拖出积木``||basic:show leds||``
+
+```blocks
+basic.forever(function () {
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `)
+})
+```
 
 ## Step 2 @fullscreen
 
-Place another ``||basic:show leds||`` block. You can leave it blank and draw what you want.
+请小朋友在``||input:on button A pressed||``
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
