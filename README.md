@@ -13,19 +13,14 @@ Place the ``||basic:show leds||`` block in the ``||basic:forever||`` block and d
 Place another ``||basic:show leds||`` block. You can leave it blank and draw what you want.
 
 ```blocks
-basic.forever(function() {
+input.onButtonPressed(Button.A, function () {
     basic.showLeds(`
-        . # . # .
-        # # # # #
-        # # # # #
+        . . . . .
         . # # # .
-        . . # . .`);
-    basic.showLeds(`
+        . # # # .
+        . # # # .
         . . . . .
-        . . . . .
-        . . # . .
-        . . . . .
-        . . . . .`);
+        `)
 })
 ```
 
