@@ -8,7 +8,6 @@ hello!!
 
 Place the ``||basic:show leds||`` block in the ``||basic:forever||`` block and draw a heart.
 
-
 ## Step 2 @fullscreen
 
 Place another ``||basic:show leds||`` block. You can leave it blank and draw what you want.
@@ -24,7 +23,7 @@ basic.forever(function() {
     basic.showLeds(`
         . . . . .
         . . . . .
-        . . . . .
+        . . # . .
         . . . . .
         . . . . .`);
 })
