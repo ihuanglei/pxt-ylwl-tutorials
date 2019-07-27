@@ -5,7 +5,9 @@
     "dependencies": {
         "core": "*"
     },
-    "files": [],
+    "files": [
+        "README.md"
+    ],
     "testFiles": [],
     "public": false,
     "preferredEditor": "tsprj"
