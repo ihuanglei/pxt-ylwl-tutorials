@@ -4,7 +4,7 @@
 
 **``|| 微 笑 ||``**
 
-![微笑](./assets/smile.gif)
+![微笑](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/smile.gif)
 
 ## 第一步 @fullscreen
 
