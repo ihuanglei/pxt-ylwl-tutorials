@@ -2,7 +2,7 @@
 
 ## Introduction @unplugged
 
-**``|| 微 笑 ||``**
+康和康妈@boardname@系列教程 **微 笑**
 
 ![微笑](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/smile.gif?raw=true)
 
@@ -58,4 +58,4 @@ basic.forever(function () {
 
 ## 第四步 @fullscreen
 
-如果我们身边有@boardname@ 点击 ``|Download|`` 下载文件，然后复制到@boardname@中。
+如果小朋友们身边有@boardname@ 点击 ``|Download|`` 下载文件，然后复制到@boardname@中。
