@@ -4,7 +4,7 @@
 
 康和康妈@boardname@系列教程 **掷骰子**
 
-![你好](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/dice.gif?raw=true)
+![你好](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/dice.gif?raw=true)
 
 ## 第一步 @fullscreen
 

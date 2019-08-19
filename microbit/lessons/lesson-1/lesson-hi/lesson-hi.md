@@ -4,7 +4,7 @@
 
 康和康妈@boardname@系列教程 **你 好**
 
-![你好](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/hi.gif?raw=true)
+![你好](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/hi.gif?raw=true)
 
 ## 第一步 @fullscreen
 

@@ -4,7 +4,7 @@
 
 康和康妈@boardname@系列教程 **暗 号**
 
-![暗号](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/countersign.gif?raw=true)
+![暗号](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/countersign.gif?raw=true)
 
 ## 第一步 @fullscreen
 

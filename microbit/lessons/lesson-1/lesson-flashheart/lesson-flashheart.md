@@ -4,7 +4,7 @@
 
 康和康妈@boardname@系列教程 **心 跳**
 
-![心跳](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/flashheart.gif?raw=true)
+![心跳](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/flashheart.gif?raw=true)
 
 ## 第一步 @fullscreen
 

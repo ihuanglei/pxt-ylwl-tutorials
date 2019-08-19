@@ -4,7 +4,7 @@
 
 康和康妈@boardname@系列教程 **微 笑**
 
-![微笑](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/smile.gif?raw=true)
+![微笑](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/smile.gif?raw=true)
 
 ## 第一步 @fullscreen
 

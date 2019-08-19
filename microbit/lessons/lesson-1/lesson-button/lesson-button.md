@@ -4,7 +4,8 @@
 
 康和康妈@boardname@系列教程 **变 脸**
 
-![变脸](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/button.gif?raw=true)
+
+![变脸](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/button.gif?raw=true)
 
 ## 第一步 @fullscreen
 

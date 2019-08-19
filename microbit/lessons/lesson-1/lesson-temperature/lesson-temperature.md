@@ -4,7 +4,7 @@
 
 康和康妈@boardname@系列教程 **温度计**
 
-![微笑](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/assets/temperature.gif?raw=true)
+![微笑](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/temperature.gif?raw=true)
 
 ## 第一步 @fullscreen
 
