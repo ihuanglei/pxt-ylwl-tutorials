@@ -6,7 +6,7 @@
 ![变脸](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/button.gif?raw=true)
 
 
-### 本篇教程目标：熟练使用A和B两个独立可编程按钮
+### 本篇教程目标：学会使用A和B两个独立可编程按钮
 
 #### 材料：
 * micro:bit

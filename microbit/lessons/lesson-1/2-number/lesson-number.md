@@ -4,7 +4,7 @@
 
 康和康妈@boardname@系列教程 **数 字**
 
-![你好](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/number.gif?raw=true)
+![数字](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/number.gif?raw=true)
 
 ## 第一步 @fullscreen
 

@@ -6,7 +6,7 @@
 ![掷骰子](https://github.com/ihuanglei/pxt-ylwl-tutorials/blob/master/microbit/assets/dice.gif?raw=true)
 
 
-### 本篇教程目标：熟练使用随机函数和重力传感器
+### 本篇教程目标：学会使用随机函数和重力传感器
 
 #### 材料：
 * micro:bit
